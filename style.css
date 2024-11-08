@@ -1,0 +1,40 @@
+* {
+  font-family: monospace;
+  text-align: center;
+}
+
+p, select, button{
+  font-size: 1.5rem;
+}
+
+.xxl{
+  font-size: 2.5rem;
+}
+
+body{
+  background: skyblue;
+}
+
+.hide{
+  display: none;
+}
+
+.output{
+  margin-top: 1rem;
+  width: 350px;
+  margin:4rem auto;
+}
+
+.movie{
+  font-size: 1.5rem;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.nomination{
+  font-size: 1.5rem;
+  display: block;
+  font-weight: bold;
+}
