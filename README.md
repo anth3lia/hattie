@@ -1,3 +1,3 @@
-# oscar
+# About
 
-Providing Oscar winner and nominees based on provided birth year.
+A webpage that provides Oscar award winner and nominees based on provided birth year.
